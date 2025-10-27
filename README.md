@@ -57,5 +57,5 @@ The project demonstrates database design principles such as normalization, forei
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/<your-username>/Inventory-Management-System.git
+git clone https://github.com/Imdilshan/Inventory_Management_System_DBMS.git
 cd Inventory-Management-System
